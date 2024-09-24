@@ -2,6 +2,7 @@
 public class Hello {
 	
 	public static void main(String[] args) {
+		System.out.println("Gitstuff x develop");
 		System.out.println("Git develop branch");
 		System.out.println("Hello World");
 		System.out.println("Welcome to Java !!");
