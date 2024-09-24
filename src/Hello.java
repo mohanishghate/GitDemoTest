@@ -5,7 +5,7 @@ public class Hello {
 
 		System.out.println("Hello World");
 		System.out.println("Welcome to Java !!");
-
+		System.out.println("Hello World2");
 		int x = 10; // integer variable
 		int y = 20; // another integer variable
 
