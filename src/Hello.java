@@ -8,7 +8,9 @@ public class Hello {
 		System.out.println("Hello World2");
 		int x = 10; // integer variable
 		int y = 20; // another integer variable
-
+		System.out.println("Hello World3");
+		System.out.println("Hello World4");
+		System.out.println("Hello World5");
 		System.out.println(x);
 		System.out.println(y);
 
